@@ -14,7 +14,7 @@ const Garenium = {
     programmingLangs: ["Java", "C", "C++", "JavaScript", "HTML5", "CSS", "JSON", "Lisp", "PHP"],
         softwareTools: ["Git", "GitHub"],
         writingOn: ["Vim", "Visual Studio Code", "Visual Studio", "JetBrains", "Eclipse Ide", "Notepad++"],
-        databases: ["MySql", "Microsoft SQL Server"],
+        databases: ["MySQL", "Microsoft SQL Server"],
         os: ["Ubuntu", "Windows"]
     },
 };
