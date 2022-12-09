@@ -13,14 +13,12 @@
  ```javascript
 const Garenium = {
     pronouns: "He" | "Him",
-    ProgrammingLans: ["Java", "C", "C++", "Javascript", "HTML5", "CSS", "JSON", "Lisp", "PHP"],
-        SoftwareAndTool: ["Git", "GitHub"],
-        WritingCodeOn: ["Vim", "Visual Studio Code", "Visual Studio", "JetBrains", "Eclipse Ide", "Notepad++"],
+    programmingLangs: ["Java", "C", "C++", "JavaScript", "HTML5", "CSS", "JSON", "Lisp", "PHP"],
+        softwareTools: ["Git", "GitHub"],
+        writingOn: ["Vim", "Visual Studio Code", "Visual Studio", "JetBrains", "Eclipse Ide", "Notepad++"],
         databases: ["MySql", "Microsoft SQL Server"],
-        OS: ["Ubuntu", "Windows"]
+        os: ["Ubuntu", "Windows"]
     },
-    currentProject: "I am simply adding more projects to GitHub and trying to learn docker",
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
  
@@ -30,14 +28,6 @@ const Garenium = {
 
 <!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue) -->
  
- **🐱 My Github Data** 
- 
-> 💼 Opted to Hire
- > 
-> 📜 25 Public Repositories
- > 
-> 🔑 2 Private Repositories 
-
  <p>
     <details>
      <summary><strong>Github Stats</strong></summary>
