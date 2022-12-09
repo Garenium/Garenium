@@ -8,7 +8,7 @@
 <h2 align="left">Hi! My name is <a href="https://www.linkedin.com/in/gikezian" target="_blank" rel="noopener noreferrer">Garen Ikezian</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
  
- ### <img src="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52/giphy.gif" width="50"> A little bit more about me: 
+ ### A little bit more about me: 
  
  ```javascript
 const Garenium = {
