@@ -2,14 +2,12 @@
 **Garenium/Garenium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-
 
 <h2 align="left">Hi! My name is <a href="https://www.linkedin.com/in/gikezian" target="_blank" rel="noopener noreferrer">Garen Ikezian</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
  
- ### A little bit more about me: 
- 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit more about me...   
+
  ```javascript
 const Garenium = {
     pronouns: "He" | "Him",
