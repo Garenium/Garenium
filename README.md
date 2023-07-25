@@ -20,7 +20,7 @@ const Garenium = {
 };
 ```
  
- ---
+ <!-- --- -->
  
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Garenium&style=flat-square) -->
 
