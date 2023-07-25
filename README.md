@@ -26,14 +26,6 @@ const Garenium = {
 
 <!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue) -->
  
- <p>
-    <details>
-     <summary><strong>Github Stats</strong></summary>
-     
-![Garenium GitHub stats](https://github-readme-stats.vercel.app/api?username=Garenium&hide=contribs,prs&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garenium&layout=compact&theme=transparent)](https://github.com/Garenium/github-readme-stats)
-      </details>
-</p>
-
+ 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
