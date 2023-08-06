@@ -12,10 +12,10 @@
 const Garenium = {
     pronouns: "He" | "Him",
     programmingLangs: ["Java", "C", "C++", "JavaScript", "HTML5", "CSS", "JSON", "Lisp", "PHP"],
-        softwareTools: ["Git", "GitHub"],
+        softwareTools: ["Git", "GCC", "Valgrind"],
         writingOn: ["Vim", "Visual Studio Code", "Visual Studio", "JetBrains", "Eclipse Ide", "Notepad++"],
         databases: ["MySQL", "Microsoft SQL Server"],
-        os: ["Ubuntu", "Windows"]
+        os: ["Linux", "Windows"]
     },
 };
 ```
